@@ -11,6 +11,9 @@ AstroCatch is an arcade-inspired video game in which players control an astronau
 <img width="1467" height="838" alt="Screenshot 2025-10-29 at 5 56 50 pm" src="https://github.com/user-attachments/assets/c4cf26ee-6146-4f0a-9fcf-1e0df7ff39f4" />
 <img width="1421" height="687" alt="Screenshot 2025-11-03 at 5 16 23 pm" src="https://github.com/user-attachments/assets/5b772ec9-c96a-4ec5-ae80-5048992b5875" />
 <img width="1423" height="658" alt="Screenshot 2025-11-03 at 5 28 34 pm" src="https://github.com/user-attachments/assets/b84c68d2-c7c5-4e24-9e97-a7a38db2304f" />
+<img width="1470" height="842" alt="Screenshot 2025-11-04 at 12 00 12 pm" src="https://github.com/user-attachments/assets/ea3acba9-66d2-4f07-816b-280448ae794a" />
+<img width="1470" height="779" alt="Screenshot 2025-11-04 at 12 00 29 pm" src="https://github.com/user-attachments/assets/cefe2602-5f13-4175-8d59-1c797ad137ea" />
+<img width="864" height="551" alt="Screenshot 2025-11-04 at 12 08 41 pm" src="https://github.com/user-attachments/assets/ba7bacad-1cef-476e-a10e-7e849b242080" />
 
 
 
